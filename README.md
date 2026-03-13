@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Kashy
 
-<!--
-**360NK/360NK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS + Math student at the University of Toronto interested in C/C++ systems, concurrency, runtimes, backend engineering, and performance-focused software.
 
-Here are some ideas to get you started:
+## Current interests
+- task scheduling and dependency graphs
+- concurrent systems and low-level data pipelines
+- real-time spatial / telemetry systems
+- performance-oriented backend tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+### Crux
+A C++17 DAG scheduling project exploring JSON graph validation, topological ordering, and critical path analysis.
+
+### telemetrix-db
+A hybrid C/C++ telemetry cache using bounded producer/consumer buffering, H3 spatial indexing, and cache-aware storage ideas.
+
+### telemetrix-engine
+A C-based GTFS realtime ingestion pipeline using threads, protobuf, libcurl, and SQLite.
+
+### transit-mind-hamilton
+A spatial/backend project combining GTFS, permits, and mapping/data infrastructure.
+
+## Current focus
+Right now I’m exploring HPX, runtime systems, and performance-oriented C++ project ideas.
