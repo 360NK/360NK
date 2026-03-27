@@ -1,7 +1,7 @@
-Working in C/C++ systems — concurrency, runtimes, and performance-oriented backends.
+Working in C/C++ systems, concurrency, runtimes, and performance-oriented backends.
 
 Projects here explore task scheduling, spatial telemetry pipelines, and parallel execution.
-Currently studying production C++ runtimes at the source level — sender/receiver composition, dependency-graph scheduling, runtime internals.
+Currently studying production C++ runtimes at the source level (sender/receiver composition, dependency-graph scheduling, runtime internals).
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
